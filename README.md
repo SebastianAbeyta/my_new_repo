@@ -1,2 +1,2 @@
 # my_new_repo
-something or other
+This is my first GitHub repository
